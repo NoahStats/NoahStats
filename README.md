@@ -1,9 +1,9 @@
 My name is Hangil Hong and I am an undergraduate researcher in the field of quantitative psychology. 
 My current interests lie in the theory and application of Bayesian statistics and point processes. 
 
-I am currently carrying out research applying Bayesian nonparametrics (e.g. Gaussian Processes) and point-process models to behavioral science data, under the guidance of Dr. Kazuya Fujita.
+I am currently carrying out research applying Bayesian nonparametrics (e.g. Gaussian Processes) and point-process models to behavioral science data, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
 
-I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing real data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the University of Tsukuba.
+I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing real data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
 
 I am also interested in broader areas of statistics beyond their applications to psychological sciences, namely theoretical statistics, spatial statistics, time series analysis and causal inference. 
 

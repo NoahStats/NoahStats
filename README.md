@@ -18,7 +18,7 @@ I previously completed a research project on **multilevel modeling**, extending 
 ---
 
 ## 📚 Relevant Coursework in Math
-To prepare for graduate-level study in statistics, I have completed over **40 credits** of coursework in mathematics and engineering at the University of Tsukuba.  
+To prepare for graduate-level study in statistics and quantitative psychology, I have completed over **40 credits** of coursework in mathematics and engineering at the University of Tsukuba.  
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a **B.A. in Psychology**.
 
 **Coursework:**  

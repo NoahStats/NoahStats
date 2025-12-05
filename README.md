@@ -17,7 +17,7 @@ I previously completed a research project on multilevel modeling, extending mixe
 
 ---
 
-## 📚 Relevant Coursework in Math
+## Relevant Coursework in Math
 To prepare for graduate level study in statistics and quantitative psychology, I have completed over 40 credits of coursework in mathematics and engineering at the University of Tsukuba.  
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
@@ -28,7 +28,7 @@ Psychometrics (Item Response Theory), and Introduction to Econometrics
 
 ---
 
-## 🛠 Skills
+## Skills
 **Languages & Tools:**  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 

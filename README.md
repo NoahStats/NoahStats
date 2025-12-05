@@ -5,7 +5,7 @@ I prefer to be addressed as Noah in English!
 ---
 
 ## 🎯 Interests
-My current interests lie in the theory of Bayesian statistics and point processes and their applications to behavioral science.  
+My current interests lie in the theory of Bayesian statistics and point processes, as well as their applications to behavioral science.  
 I am also interested in broader areas of statistics beyond their applications to psychological sciences, namely theoretical statistics, spatial statistics, time series analysis and causal inference.
 
 ---

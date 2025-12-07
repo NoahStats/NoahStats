@@ -1,6 +1,6 @@
 # Hi! 
 My name is Hangil Hong and I am an undergraduate researcher in the field of quantitative psychology.  
-I prefer to be addressed as Noah in English!  
+I prefer to be addressed as Noah.
 
 ---
 

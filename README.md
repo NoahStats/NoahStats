@@ -22,7 +22,7 @@ To prepare for graduate level study in statistics and quantitative psychology, I
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
 **Coursework:**  
-Calculus, Linear Algebra, Measure Theory, Introduction to Topology, Differential Equations,  
+Calculus, Linear Algebra, Measure Theory, Introduction to Topology, Differential Equations, Vector Calculus, 
 Applied Mathematics (Fourier Analysis, Laplace Transforms), Mathematical Statistics, Applied Probability,  
 Psychometrics (Item Response Theory), and Introduction to Econometrics
 

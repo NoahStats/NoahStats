@@ -13,7 +13,7 @@ I am also interested in broader areas of statistics beyond their applications to
 ## Research Experiences
 I am currently carrying out research applying Bayesian nonparametrics (e.g., Gaussian Processes) and point-process models to behavioral science data, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
 
-I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing real data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
+I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
 
 ---
 

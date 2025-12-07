@@ -24,7 +24,7 @@ Unfortunately, the university does not currently offer double majors or minors. 
 **Coursework:**  
 Calculus, Linear Algebra, Measure Theory, Introduction to Topology, Differential Equations, Vector Calculus, 
 Applied Mathematics (Fourier Analysis, Laplace Transforms), Mathematical Statistics, Applied Probability,  
-Psychometrics (Item Response Theory), and Econometrics(Causal Inference Methods for Economics and Panel Data Analysis)
+Psychometrics (Item Response Theory), and Econometrics (Causal Inference Methods for Economics and Panel Data Analysis)
 
 ---
 

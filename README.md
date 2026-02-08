@@ -15,7 +15,8 @@ I am currently carrying out research applying Gaussian Process regression and dy
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
 
-I have also completed another four months research project on single-case experiment design, leveraging hierarchical time-series models using R and Stan. 
+I have also completed another four-months research project on single-case experiment design, leveraging hierarchical time-series models using R and Stan. 
+
 ---
 
 ## Relevant Coursework in Math and Statistics

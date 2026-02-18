@@ -5,13 +5,13 @@ I would like to be addressed as Noah.
 ---
 
 ## Interests
-My current interests lie in the theory of Bayesian statistics, time series analysis, longitudinal data analysis and their applications to behavioral science.  
+My current interests lie in the theory of Bayesian statistics, longitudinal data analysis and their applications to behavioral science.  
 I am also interested in broader areas of statistics beyond their applications to psychological sciences, namely theoretical statistics, spatial statistics, and causal inference.
 
 ---
 
 ## Research Experiences
-I am currently carrying out research applying Gaussian Process regression and dynamic hierarchical models to time series and longitudinal data in behavioral science, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
+I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
 
@@ -26,7 +26,7 @@ Unfortunately, the university does not currently offer double majors or minors. 
 **Coursework:**  
 
 Mathematics: 
-Calculus, Linear Algebra, Measure Theory, Topology, Differential Equations, Vector Calculus,  Applied Mathematics (Fourier Analysis & Laplace Transform).
+Calculus, Linear Algebra, Measure Theory, Topology, Probability Theory, Differential Equations, Vector Calculus, Applied Mathematics (Fourier Analysis & Laplace Transform).
 
 Statistics and Data Science: 
 Mathematical Statistics, Applied Probability, Psychological Data Analysis (GLM & GLMM), Psychometrics (Item Response Theory), Econometrics (Causal Inference Methods for Economics and Panel Data Analysis).

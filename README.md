@@ -6,10 +6,11 @@ I would like to be addressed as Noah.
 
 ## Interests
 My current interests lie in the intersection of Bayesian statistics, longitudinal data analysis and psychometrics.  
-I am also interested in broader areas of statistics beyond their applications to psychological sciences, namely theoretical statistics, spatial statistics, and causal inference.
-Currently, I am preparing for Ph.D. applications (Fall 2026) in Quantitative Psychology and Statistics.
+ I am preparing for Ph.D. applications (Fall 2026) in Quantitative Psychology and Statistics.
 
-・Bayesian Non-parametrics: Specifically the application of Gaussian Process (GP) regression to intensive longitudinal data (EMA).
+ Research Interests
+ 
+・Bayesian Non-parametrics: e.g. the application of Gaussian Process (GP) regression to intensive longitudinal data (EMA).
 
 ・Longitudinal & Dynamical Systems: Modeling within-person dynamics and continuous-time processes.
 

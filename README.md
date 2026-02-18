@@ -15,7 +15,7 @@ The following are some of my interests:
 
 ・Latent Variable Modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
 
-・Broad Interests: Theoretical statistics, spatial statistics, and causal inference.
+・Broad Interests: Statistical Decision Theory, spatial statistics, and causal inference.
 
 ## Research Experiences
 I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.

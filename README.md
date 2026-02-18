@@ -5,7 +5,7 @@ I would like to be addressed as Noah.
 ---
 
 ## Interests
-My current interests lie in the theory of Bayesian statistics, longitudinal data analysis and their applications to behavioral science.  
+My current interests lie in the intersection of Bayesian statistics, longitudinal data analysis and psychometrics.  
 I am also interested in broader areas of statistics beyond their applications to psychological sciences, namely theoretical statistics, spatial statistics, and causal inference.
 Currently, I am preparing for Ph.D. applications (Fall 2026) in Quantitative Psychology and Statistics.
 

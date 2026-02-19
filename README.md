@@ -9,7 +9,7 @@ My current interests lie in the intersection of Bayesian statistics, longitudina
  I am preparing for Ph.D. applications (Fall 2026) in Quantitative Psychology and/or Statistics.
 
 The following are some of my interests:  
-・Bayesian Non-parametrics: e.g. the application of Gaussian Process (GP) regression to intensive longitudinal data (EMA).
+・Bayesian Non-parametrics: e.g. the application of Gaussian Process (GP) regression to intensive longitudinal data.
 
 ・Longitudinal & Dynamical Systems: Modeling within-person dynamics and continuous-time processes.
 

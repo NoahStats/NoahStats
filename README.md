@@ -1,5 +1,5 @@
 # Hi! 
-My name is Hangil Hong and I am an undergraduate researcher in the field of quantitative psychology.  
+My name is Hangil Noah Hong and I am an undergraduate researcher in the field of quantitative psychology.  
 I would like to be addressed as Noah.
 
 ---

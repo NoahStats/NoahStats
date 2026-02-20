@@ -26,7 +26,7 @@ I have also completed another four-months research project on single-case experi
 
 ---
 
-## Relevant Coursework in Math, Statistics and Data Science
+## Relevant Coursework in Math, Statistics, and Data Science
 To prepare for graduate level study in statistics and quantitative psychology, I have completed 55+ credits of coursework in mathematics, engineering, and data science at the University of Tsukuba.  
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 

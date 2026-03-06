@@ -11,8 +11,6 @@ My current interests lie in the intersection of Bayesian statistics, longitudina
 The following are some of my interests:  
 ・Bayesian Non-parametrics: e.g. the application of Gaussian Process (GP) regression to intensive longitudinal data.
 
-・Longitudinal & Dynamical Systems: State-Space Models.
-
 ・Latent Variable Modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
 
 ・Broad Interests: Decision Theory, Spatial Statistics, and Causal Inference in Longitudinal data.

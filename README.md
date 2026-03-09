@@ -30,7 +30,7 @@ Unfortunately, the university does not currently offer double majors or minors. 
 
 **Coursework:**  
 
-Pure Mathematics: 
+Mathematics: 
 Calculus, Linear Algebra, Measure Theory, Topology, Probability Theory, Differential Equations,Vector Calculus, Applied Mathematics (Fourier Analysis & Laplace Transform).
 
 Statistics and Data Science: 

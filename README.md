@@ -11,7 +11,7 @@ My current interests lie in the intersection of Bayesian statistics, longitudina
 The following are some of my interests:  
 ・Bayesian Statistics: e.g. Bayesian Modeling, Hierarchical Models and Bayesian Nonparametrics 
 
-・Longitudinal data analysis: Analysis of longitudinal data from Neuroscience, biomedical science and behavioral scinece using Mixed Effects Models, State Space models, FDA and other Machine learning Methods.
+・Longitudinal data analysis: Analysis of longitudinal data from Neuroscience, biomedical science and behavioral scinece using Mixed Effects Models, State Space models, FDA and other Machine learning algorithms.
 
 ・Latent variable modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
 

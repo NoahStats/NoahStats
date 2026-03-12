@@ -11,7 +11,9 @@ My current interests lie in the intersection of Bayesian statistics, longitudina
 The following are some of my interests:  
 ・Bayesian Non-parametrics: e.g. the application of Gaussian Process (GP) regression to intensive longitudinal data.
 
-・Latent Variable Modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
+・Longitudinal data analysis: Analysis of longitudinal data from Neuroscience, biomedical science and behavioral scinece using Mixed Effects Models, State Space models, FDA and other Machine learning Methods.
+
+・Latent variable modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
 
 ・Broad Interests: Decision Theory, Spatial Statistics, and Causal Inference in Longitudinal data.
 

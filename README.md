@@ -6,16 +6,14 @@ I would like to be addressed as Noah.
 
 ## Interests
 My current interests lie in the intersection of Bayesian statistics, longitudinal data analysis, and psychometrics.  
- I am preparing for Ph.D. applications (Fall 2026) in Statistics and/or Quantitative Psychology.
+ I am preparing for graduate school applications (Fall 2026) in Statistics, Biostatistics, and/or Quantitative Psychology.
 
 The following are some of my interests:  
-・Bayesian Statistics: e.g. Bayesian Modeling, Hierarchical Models and Bayesian Nonparametrics 
+・Bayesian Statistics: e.g. Bayesian hierarchical modeling and Bayesian Nonparametrics 
 
-・Longitudinal data analysis: Analysis of longitudinal data from neuroscience, biomedical science and behavioral scinece using Mixed Effects Models, State Space models, FDA and other Machine learning algorithms.
+・Longitudinal data analysis: Analysis of longitudinal data from behavioral scinece, neuroscience, and biomedical science using mixed-effects models, state space models, FDA and other machine learning algorithms.
 
-・Latent variable modeling: Extending mixed-effects location-scale models (MELSM) and multilevel frameworks.
-
-・Broad Interests: Decision Theory, Spatial Statistics.
+・Broad Interests: Decision Theory and Spatial Statistics.
 
 ## Research Experiences
 I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
@@ -27,13 +25,13 @@ I have also completed another four-months research project on single-case experi
 ---
 
 ## Relevant Coursework in Math, Statistics, and Data Science
-To prepare for graduate level study in statistics and quantitative psychology, I have completed 40+ credits of coursework in mathematics, engineering, and data science at the University of Tsukuba.  
+Although my degree is in psychology, I have completed 40+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukkuba to better prepare for graduate level study in  theoretical and applied statistics. 
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
 **Coursework:**  
 
 Mathematics: 
-Calculus, Linear Algebra, Measure Theory, Topology, Probability Theory, Differential Equations, Vector Calculus, Applied Mathematics (Fourier Analysis & Laplace Transform).
+Calculus, Linear Algebra, Topology, Measure Theory, Probability Theory, Differential Equations, Vector Calculus, Applied Mathematics (Fourier Analysis & Laplace Transform).
 
 Statistics and Data Science: 
 Mathematical Statistics, Applied Probability, Psychological Data Analysis (GLM & GLMM), Psychometrics (Item Response Theory), Econometrics (Causal Inference Methods for Economics and Panel Data Analysis).
@@ -43,10 +41,9 @@ Mathematical Statistics, Applied Probability, Psychological Data Analysis (GLM &
 ## Skills
 **Languages & Tools:**  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![Stan](https://img.shields.io/badge/Stan-001F3F?logo=stan&logoColor=white)
 
 **Languages (Spoken):**  
-English (professional proficiency), Japanese (native), Korean (conversationally fluent)
+English (professional proficiency), Japanese (fluent), Korean (conversationally fluent)
 
 ---

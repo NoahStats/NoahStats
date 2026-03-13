@@ -16,16 +16,16 @@ The following are some of my interests:
 ・Broad Interests: Decision Theory and Spatial Statistics.
 
 ## Research Experiences
-I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Dr. Kazuya Fujita at the University of Tsukuba, Japan.
+I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.
 
-I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Dr. Kazuhiro Yamaguchi at the university.
+I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Prof. Kazuhiro Yamaguchi at the university.
 
 I have also completed another four-months research project on single-case experiment design, leveraging hierarchical interrupted time-series analysis using R and Stan. 
 
 ---
 
 ## Relevant Coursework in Math, Statistics, and Data Science
-Although my degree is in psychology, I have completed 40+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukkuba. 
+Although my degree is in psychology, I have completed 40+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukuba. 
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
 **Coursework:**  

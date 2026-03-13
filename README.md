@@ -25,7 +25,7 @@ I have also completed another four-months research project on single-case experi
 ---
 
 ## Relevant Coursework in Math, Statistics, and Data Science
-Although my degree is in psychology, I have completed 40+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukkuba to better prepare for graduate level study in  theoretical and applied statistics. 
+Although my degree is in psychology, I have completed 40+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukkuba. 
 Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
 **Coursework:**  

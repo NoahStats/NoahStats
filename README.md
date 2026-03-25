@@ -13,7 +13,7 @@ The following are some of my interests:
 
 ・Longitudinal data analysis: Analysis of longitudinal data from behavioral scinece, neuroscience, and biomedical science using mixed-effects models, state space models, FDA and other machine learning algorithms.
 
-・Broad Interests: Decision Theory and Spatial Statistics.
+・Broad Interests: Decision Theory, Causal Inference and Spatial Statistics.
 
 ## Research Experiences
 I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.

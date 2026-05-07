@@ -16,7 +16,7 @@ The following are some of my interests:
 ・Broad Interests: Decision Theory and Spatial Statistics.
 
 ## Research Experiences
-I am currently carrying out research on dynamic treament regimes, specifically on how to best incorporate Bayesian hiearchical models for multisite randomized data, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.
+I am currently carrying out research on dynamic treament regimes, specifically on how to best incorporate Bayesian hierarchical models for multisite randomized data, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Prof. Kazuhiro Yamaguchi at the university.
 

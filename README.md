@@ -1,19 +1,19 @@
 # Hi! 
-My name is Hangil Noah Hong and I am an undergraduate researcher in the field of quantitative psychology.  
+My name is Hangil Noah Hong and I am interested in statistics.  
 I would like to be addressed as Noah.
 
 ---
 
 ## Interests
-My current interests lie in the intersection of Bayesian statistics, longitudinal data analysis, and psychometrics.  
+My current interests lie in the intersection of Bayesian statistics, dynamic treatment regimes and causal inference.  
  I am preparing for graduate school applications (Fall 2026) in Statistics, Biostatistics, and/or Quantitative Psychology.
 
 The following are some of my interests:  
 ・Bayesian Statistics: e.g. Bayesian hierarchical modeling and Bayesian Nonparametrics 
 
-・Longitudinal data analysis: Analysis of longitudinal data from behavioral scinece, neuroscience, and biomedical science using mixed-effects models, state space models, FDA and other machine learning algorithms.
+・Causal Inference and Dynamic treatment regimes
 
-・Broad Interests: Decision Theory, Causal Inference and Spatial Statistics.
+・Broad Interests: Decision Theory and Spatial Statistics.
 
 ## Research Experiences
 I am currently carrying out research applying Gaussian Process regression to longitudinal data in behavioral science, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.

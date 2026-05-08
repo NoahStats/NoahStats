@@ -20,7 +20,7 @@ I am currently carrying out research on dynamic treament regimes, specifically o
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Prof. Kazuhiro Yamaguchi at the university.
 
-I have also completed another four-months research project on single-case experiment design, leveraging hierarchical interrupted time-series analysis using R and Stan. 
+I have also completed another project on single-case experiment design, leveraging hierarchical interrupted time-series analysis using R and Stan. 
 
 ---
 

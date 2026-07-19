@@ -6,7 +6,7 @@ I would like to be addressed as Noah.
 
 ## Interests
 My current interests lie in the intersection of Bayesian statistics, dynamic treatment regimes and causal inference.  
- I am preparing for graduate school applications (Fall 2026) in Statistics, Biostatistics, and Quantitative Psychology.
+ I am preparing for graduate school applications (Fall 2027) in Statistics, Biostatistics, and Quantitative Psychology.
 
 The following are some of my interests:  
 ・Bayesian Statistics: e.g. Bayesian hierarchical modeling and Bayesian Nonparametrics 

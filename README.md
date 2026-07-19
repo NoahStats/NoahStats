@@ -20,7 +20,7 @@ I am currently carrying out research on dynamic treament regimes, specifically o
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Prof. Kazuhiro Yamaguchi at the university.
 
-I have also completed another project on single-case experiment design, leveraging hierarchical interrupted time-series analysis using R and Stan. 
+I have also completed another project on single-case experiment design, using hierarchical interrupted time-series analysis using R and Stan. 
 
 ---
 
@@ -34,7 +34,7 @@ Mathematics:
 Calculus, Linear Algebra, Topology, Measure Theory, Probability Theory, Differential Equations, Vector Calculus, Applied Mathematics (Fourier Analysis & Laplace Transform).
 
 Statistics and Data Science: 
-Mathematical Statistics, Applied Probability, Psychological Data Analysis (GLM & GLMM), Psychometrics (Item Response Theory), Econometrics (Causal Inference Methods for Economics and Panel Data Analysis).
+Mathematical Statistics, Applied Probability, Econometrics (Causal Inference Methods for Economics and Panel Data Analysis), Psychological Data Analysis (GLM & GLMM), Psychometrics (Item Response Theory).
 
 ---
 

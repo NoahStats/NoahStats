@@ -42,6 +42,7 @@ Mathematical Statistics, Applied Probability, Econometrics (Causal Inference Met
 **Languages & Tools:**  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
 ![Stan](https://img.shields.io/badge/Stan-001F3F?logo=stan&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 **Languages (Spoken):**  
 English (professional proficiency), Japanese (fluent), Korean (conversationally fluent)

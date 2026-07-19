@@ -16,7 +16,7 @@ The following are some of my interests:
 ・Broad Interests: Decision Theory and Spatial Statistics.
 
 ## Research Experiences
-I am currently carrying out research on dynamic treament regimes, specifically on how to best incorporate Bayesian hierarchical models for multisite randomized data, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.
+I am currently carrying out research on dynamic treatment regimes, specifically on how to best incorporate Bayesian hierarchical models for multisite randomized data, under the guidance of Prof. Kazuya Fujita at the University of Tsukuba, Japan.
 
 I previously completed a research project on multilevel modeling, extending mixed-effects location–scale models and analyzing PISA 2022 data within this framework, under the supervision of Prof. Kazuhiro Yamaguchi at the university.
 
@@ -26,7 +26,7 @@ I have also completed another project on single-case experiment design, using hi
 
 ## Relevant Coursework in Math, Statistics, and Data Science
 Although my degree is in psychology, I have completed 45+ credits of coursework from the department of Mathematics and Engineering at the University of Tsukuba. 
-Unfortunately, the university does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
+The university of Tsukuba does not currently offer double majors or minors. I will be graduating with a B.A. in Psychology.
 
 **Coursework:**  
 
@@ -45,6 +45,6 @@ Mathematical Statistics, Applied Probability, Econometrics, Psychological Data A
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 **Languages (Spoken):**  
-English (professional proficiency), Japanese (fluent), Korean (conversationally fluent)
+English (professional proficiency), Japanese (fluent), Korean (conversational)
 
 ---
